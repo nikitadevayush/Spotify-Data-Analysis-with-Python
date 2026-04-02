@@ -59,19 +59,19 @@ The dataset contains Spotify track-level data with the following features:
 
 Used **Matplotlib, Seaborn, and Plotly** to create:
 
-- 📊 **Histograms** – Distribution of features  
-- 📈 **Bar Charts** – Top genres and artists  
-- 📦 **Boxplots** – Spread and variability  
-- 🔥 **Heatmaps** – Correlation between features  
-- ⚡ **Scatter Plots** – Feature relationships  
+- **Histograms** – Distribution of features  
+- **Bar Charts** – Top genres and artists  
+- **Boxplots** – Spread and variability  
+- **Heatmaps** – Correlation between features  
+- **Scatter Plots** – Feature relationships  
 
 ---
 
 ### 4️. Musical Trend Analysis
 
-- 📅 **Time Series Analysis** – Trends over years  
-- 🎼 **Genre Trends** – Popular genres over time  
-- 🎤 **Artist Analysis** – Most active and popular artists  
+- **Time Series Analysis** – Trends over years  
+- **Genre Trends** – Popular genres over time  
+- **Artist Analysis** – Most active and popular artists  
 
 ---
 
